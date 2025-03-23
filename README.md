@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GradBond for Capstone Project**
 
-- 🌱 I’m currently learning **Flutter, Dart, Godot, TensorFlow**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 - 👨‍💻 All of my projects are available at [https://portfolionaimur.netlify.app/](https://portfolionaimur.netlify.app/)
 
