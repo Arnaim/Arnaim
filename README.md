@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaim&label=Profile%20views&color=0e75b6&style=flat" alt="arnaim" /> </p>
 
-- 🔭 I’m currently working on **GradBond and SDG For Youth (NASA space apps challenge 2024)**
+- 🔭 I’m currently working on **GradBond for Capstone Project**
 
 - 🌱 I’m currently learning **Flutter, Dart, Godot, TensorFlow**
 
