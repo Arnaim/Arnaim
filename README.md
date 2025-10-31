@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cookynaimur@gmail.com**
 
-- 📄 Know about my experiences [Currently an University student at BUBT, working part time as seo specialist in Guerniss](Currently an University student at BUBT, working part time as seo specialist in Guerniss)
+- 📄 Know about my experiences [Currently an University student at BUBT, working part time as seo specialist in Guerniss]
 
 - ⚡ Fun fact **I am interested in history, space, philosophy, anime, games**
 
