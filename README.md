@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://portfolionaimur.netlify.app/](https://portfolionaimur.netlify.app/)
-
 - 📫 How to reach me **cookynaimur@gmail.com**
 
 - 📄 Know about my experiences [Currently an University student at BUBT, working part time as seo and web developer in Guerniss](Currently an University student at BUBT, working part time as seo and web developer in Guerniss)
