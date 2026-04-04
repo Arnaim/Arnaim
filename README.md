@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an AI assistant for desktop**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **how to train models for AI**
 
 - 📫 How to reach me **cookynaimur@gmail.com**
 
