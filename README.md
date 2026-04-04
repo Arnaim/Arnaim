@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cookynaimur@gmail.com**
 
-- 📄 Know about my experiences [Currently an University student at BUBT, working part time as seo specialist in Guerniss]
+- 📄 Know about my experiences [I have recently graduated from BUBT in CSE and have worked for 3 years in TrustBD Guerniss as an SEO Specialist]
   
 - 📄 Interested in researching Machine Learning and technology using it.
   
