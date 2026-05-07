@@ -1,63 +1,29 @@
 # Hi 👋, I'm Naimur Rahman Arnab
-
 ### A passionate developer from Bangladesh 🇧🇩
 
+## 🔭 About Me
+*   **Current Project:** Building an AI Assistant for Desktop
+*   **Learning:** Deep diving into AI model training and Machine Learning
+*   **Background:** Recently graduated from BUBT with a degree in Computer Science & Engineering (CSE)
+*   **Experience:** 3 years as an SEO Specialist at TrustBD Guerniss
+*   **Interests:** History, Space, Mythology, Anime, Games, and AI
+
+## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arnaim&label=Profile%20Views&color=0e75b6&style=flat" alt="arnaim" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="firebase" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
 </p>
 
-## About Me
-
-* 🔭 Currently working on an **AI Assistant for Desktop**
-* 🌱 Currently learning **AI model training and machine learning**
-* 🎓 Recently graduated from **BUBT** with a degree in **Computer Science & Engineering (CSE)**
-* 💼 Worked for **3 years at TrustBD Guerniss as an SEO Specialist**
-* 🧠 Interested in **Machine Learning, AI, and emerging technologies**
-* ⚡ Interests: **History, Space, Mythology, Anime, Games, and AI**
-* 📫 Reach me at: **[cookynaimur@gmail.com](mailto:cookynaimur@gmail.com)**
-
----
-
-## Languages and Tools
-
+## 📊 GitHub Stats
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Arnab's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnaim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaim&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 📫 Reach Me
+*   📧 Email: cookynaimur@gmail.com
