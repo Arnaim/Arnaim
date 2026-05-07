@@ -6,7 +6,7 @@
 ### 🔭 About Me
 * **Currently working on:** An AI Assistant for Desktop 🤖
 * **Currently learning:** AI model training and Machine Learning 🌱
-* **Education:** Recently graduated from BUBT in CSE 🎓
+* **Education:** Recently graduated from BUBT in Computer Science & Engineering (CSE) 🎓
 * **Experience:** 3 years as an SEO Specialist at TrustBD Guerniss 💼
 * **Interests:** History, Space, Mythology, Anime, Games, and AI ⚡
 
@@ -27,16 +27,16 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=cookynaimur&show_icons=true&theme=radical&hide_border=true" alt="Arnab's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookynaimur&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arnaim&show_icons=true&theme=radical&hide_border=true" alt="Arnaim's GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaim&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180px" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cookynaimur&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnaim&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Reach Me
 * 📧 Email: **cookynaimur@gmail.com**
-* 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) (Add your link here!)
+* 💼 LinkedIn: [naimurrahmanarnab](https://www.linkedin.com/in/naimurrahmanarnab/)
