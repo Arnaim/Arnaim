@@ -27,14 +27,13 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Arnaim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Arnaim's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaim&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" height="180px" />
+<img src="https://github-readme-stats.shion.dev/api?username=Arnaim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Arnaim's GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arnaim&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" height="180px" />
 </p>
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnaim&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Reach Me
